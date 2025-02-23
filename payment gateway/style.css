@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;            
+    margin: 50;                
+    flex-direction: column;   
+    text-align: center;     
+    background-image:url("payment.jpg");  
+}
+
+
+h2 {
+    color: #333;
+}
+
+#paypal-button-container {
+    margin-top: 20px;
+}
