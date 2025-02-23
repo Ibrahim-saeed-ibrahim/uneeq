@@ -46,7 +46,7 @@ section nav ul li a::after{
     content: '';
     width: 0;
     height: 2px;
-    background: #40b6a7;
+    background: #fac031;
     display: block;
     transition: 0.2s linear;
 }
@@ -54,7 +54,7 @@ section nav ul li a:hover::after{
     width: 100%;
 }
 section nav ul li a:hover{
-    color: #40b6a7;
+    color: #fac031;
 }
 section nav .icon i{
     font-size: 18px;
@@ -64,7 +64,7 @@ section nav .icon i{
     transition: 0.3s;
 }
 section nav .icon i:hover{
-    color: #40b6a7;
+    color: #fac031;
 }
 section .main{
     display: flex;
@@ -77,12 +77,12 @@ section .main .men_text h1{
     font-size: 60px;
     position: relative;
     top: -90px;
-    left: 100px;
+    left: 20px;
     
 }
 section .main .men_text h1 span{
     margin-left: 15px;
-    color:#40b6a7;
+    color: #fac031;
     font-family: mv boli;
     line-height: 22px;
     font-size: 70px;
@@ -103,7 +103,7 @@ section p{
     line-height: 22px;
 }
 section .main_btn{
-    background: #40b6a7;
+    background: #fac031;
     position: relative;
     left: 190px;
     bottom: 30px;
@@ -135,12 +135,11 @@ section .main_btn:hover i{
 }
 .about .about_main .image img{
     width: 800px;
-    height: 500px;
     position: relative;
-    top: 50px;
+    top: 60px;
 }
 .about .about_main .about_text h1 span{
-    color: #40b6a7;
+    color: #fac031;
     margin-right: 15px;
     font-family: mv boli;
 }
@@ -162,7 +161,7 @@ section .main_btn:hover i{
     line-height: 22px;
 }
 .about .about_btn{
-    background: #40b6a7;
+    background: #fac031;
     padding: 12px 25px ;
     text-decoration: none;
     color: #fff;
@@ -182,7 +181,7 @@ section .main_btn:hover i{
     margin-bottom: 30px;
 }
 .menu h1 span{
-    color: #40b6a7;
+    color: #fac031;
     margin-left: 15px;
     font-family: mv boli;
 }
@@ -190,7 +189,7 @@ section .main_btn:hover i{
     content: '';
     width: 100%;
     height: 2px;
-    background: #40b6a7;
+    background: #fac031;
     display: block;
     position: relative;
     bottom: 15px;
@@ -257,7 +256,7 @@ section .main_btn:hover i{
     transition: 0.2s;
 }
 .menu .menu_box .menu_card .small_card i:hover{
-    color: #40b6a7;
+    color: #fac031;
 
 }
 .menu .menu_box .menu_card .menu_info h2{
@@ -265,7 +264,7 @@ section .main_btn:hover i{
     text-align: center;
     margin: 10px auto 10px auto;
     font-size: 25px;
-    color: #40b6a7;
+    color: #fac031;
 }
 .menu .menu_box .menu_card .menu_info p{
     text-align: center;
@@ -277,7 +276,7 @@ section .main_btn:hover i{
     margin-top: 10px;
 }
 .menu .menu_box .menu_card .menu_info .menu_icon{
-    color: #40b6a7;
+    color: #fac031;
     text-align: center;
     margin: 10px 0 10px 0;
 }
@@ -293,7 +292,7 @@ section .main_btn:hover i{
     transition: 0.3s;
     
 }
-/* .gallery h1{
+.gallery h1{
     font-size: 55px;
     display: flex;
     align-items: center;
@@ -301,14 +300,14 @@ section .main_btn:hover i{
 }
 .gallery h1 span{
     margin-left: 15px;
-    color: #40b6a7;
+    color: #fac031;
     font-family: mv boli;
 }
 .gallery h1 span::after{
     content: '';
     width: 100%;
     height: 2px;
-    background: #40b6a7;
+    background: #fac031;
     display: block;
     position: relative;
     bottom: 15px;
@@ -337,7 +336,7 @@ section .main_btn:hover i{
     position: absolute;
     font-size: 35px;
     margin-bottom: 130px;
-    color: #40b6a7;
+    color: #fac031;
     font-family: polo;
     z-index: 5;
     opacity: 1;
@@ -365,7 +364,7 @@ section .main_btn:hover i{
     position: absolute;
     margin-top: 180px;
     color: #000;
-    background: #40b6a7;
+    background: #fac031;
     padding: 7px 25px;
     text-decoration: none;
     opacity: 1;
@@ -376,7 +375,7 @@ section .main_btn:hover i{
 .gallery .gallery_image_box .gallery_image:hover .gallary_btn{
     opacity: 1;
     transform: translateY(0);
-} */
+}
 .review{
     width: 100%;
     height: 100vh;
@@ -390,14 +389,14 @@ section .main_btn:hover i{
 }
 .review h1 span{
     margin-left: 15px;
-    color: #40b6a7;
+    color: #fac031;
     font-family: mv boli;
 }
 .review h1 span::after{
     content: '';
     width: 100%;
     height: 2px;
-    background: #40b6a7;
+    background: #fac031;
     position: relative;
     bottom: 15px;
     display: block;
@@ -444,7 +443,7 @@ section .main_btn:hover i{
     transform: translateY(-50px);
 }
 .review .review_box .review_card .review_text .review_icon{
-    color: #40b6a7;
+    color: #fac031;
     transition: 0.3s;
 }
 .review .review_box .review_card:hover .review_text .review_icon{
@@ -468,12 +467,12 @@ section .main_btn:hover i{
 }
 .review .review_box .review_card:hover .review_text p{
     margin-top: 5px;
-} 
+}
 .order{
     width: 100%;
     height: 100vh;
     padding: 70px 0;
-    background-image: none;
+    background-image: url(image/bg2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -485,7 +484,7 @@ section .main_btn:hover i{
     font-size: 55px;
 }
 .order h1 span{
-    color: #40b6a7;
+    color: #fac031;
     margin-right: 15px;
     font-family: mv boli;
 }
@@ -493,7 +492,7 @@ section .main_btn:hover i{
     content: '';
     width: 100%;
     height: 2px;
-    background: #40b6a7;
+    background: #fac031;
     display: block;
     position: relative;
     bottom: 15px;
@@ -528,11 +527,11 @@ section .main_btn:hover i{
     border-radius: 3px;
 }
 .order .order_main form .input input:focus{
-    border: 2px solid #40b6a7;
+    border: 2px solid #fac031;
 }
 .order .order_main form .order_btn{
     padding: 10px 0;
-    background: #40b6a7;
+    background: #fac031;
     color: white;
     width: 40%;
     text-align: center;
@@ -542,7 +541,7 @@ section .main_btn:hover i{
 .team{
     width: 100%;
     height: 90vh;
-    background-image: none;
+    background-image: url(image/bg1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -555,7 +554,7 @@ section .main_btn:hover i{
 
 }
 .team h1 span{
-    color: #40b6a7;
+    color: #fac031;
     margin-left: 15px;
     font-family: mv boli;
 }
@@ -563,7 +562,7 @@ section .main_btn:hover i{
     content: '';
     width: 100%;
     height: 2px;
-    background: #40b6a7;
+    background: #fac031;
     display: block;
     position: relative;
     bottom: 15px;
@@ -619,7 +618,7 @@ section .main_btn:hover i{
     top:60%;
 }
 .team .team_box .profile .info .name{
-    color: #40b6a7;
+    color: #fac031;
     margin-bottom: 15px;
 }
 .team .team_box .profile .info .bio{
@@ -634,7 +633,7 @@ section .main_btn:hover i{
     transition: 0.3s;
 }
 .team .team_box .profile .info .team_icon i:hover{
-    color: #40b6a7;
+    color: #fac031;
 }
 #cart {
     position: fixed;
@@ -662,14 +661,14 @@ section .main_btn:hover i{
     margin: 10px auto;
     padding: 10px 15px;
     border: 2px solid black;
-    background-color: #40b6a7;
+    background-color: #fac031;
     font-weight: bold;
     cursor: pointer;
     transition: transform 0.2s ease-in-out, background-color 0.3s;
 }
 
 .add-to-cart:hover {
-    background-color: #40b6a7;
+    background-color: #fac031;
 }
 
 .add-to-cart:active {
